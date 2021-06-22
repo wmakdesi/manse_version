@@ -1,3 +1,3 @@
-7
+8
 https://github.com/wmakdesi/manse_version/raw/master/manse_setup.exe
-9af803379e01feddbb4b8ef0a85beb9b
+f3bfc9765b566951660f13df43d9a086
