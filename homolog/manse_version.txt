@@ -1,3 +1,3 @@
-46
+47
 https://github.com/wmakdesi/manse_version/raw/master/homolog/manse_update.exe
-7841f1235f3ded917443c951454d922c
+5609b2de638fdfe4b4e167e5685ff96d
